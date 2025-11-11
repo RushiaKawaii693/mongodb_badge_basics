@@ -1,5 +1,3 @@
 # mongodb_badge_basics
 
-![Alt Text]
-
-![Alt Text]
+One key difference between relational and non-relational databases is that relational databases like MySQL store data in structured tables with predefined schemas, while non-relational databases like MongoDB store data as flexible documents in JSON-like format, allowing for dynamic and unstructured data. Another difference is that MongoDB scales horizontally more easily, making it better suited for large or rapidly changing datasets. In healthcare, a non-SQL database like MongoDB would be ideal for managing patient health records collected from wearable devices, since the data varies in structure and volume across patients and needs to be updated in real time. Its flexibility and scalability make it well-suited for integrating diverse health metrics without constantly redesigning the database schema.
